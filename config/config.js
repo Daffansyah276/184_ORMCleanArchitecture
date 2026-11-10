@@ -19,4 +19,4 @@ const production = {
   }
 };
 
-module.exports = { development, production };
+module.exports = {development, production};
